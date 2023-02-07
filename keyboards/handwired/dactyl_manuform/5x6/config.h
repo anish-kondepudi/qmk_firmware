@@ -44,4 +44,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 //#define AUDIO_PIN B6
 
+#define TAPPING_TOGGLE 2
+
 #define USE_SERIAL
