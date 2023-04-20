@@ -1,3 +1,8 @@
+# How to compile
+
+- `qmk compile -kb handwired/dactyl_manuform/5x6 -km anish_mac_numpad`
+- Directory to work in `qmk_firmware/keyboards/handwired/dactyl_manuform/5x6/keymaps`
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
